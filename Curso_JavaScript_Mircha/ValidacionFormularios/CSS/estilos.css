@@ -27,7 +27,7 @@ legend
 
 form
 {
-  margin:0.5em auto; // Se centra en la pantalla
+  margin:0.5em auto; /* Se centra en la pantalla */
   width:80%;
 }
 
